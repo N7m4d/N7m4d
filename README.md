@@ -92,10 +92,3 @@
   <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/CRYENGINE-000?style=flat-square&logo=cryengine&logoColor=white" />
 </div>
-
-<br />
-
-<!-- Wake the fuck up SAMURAI!!! -->
-<div align="center">
-  <img src="https://media1.tenor.com/m/QAmH804xqPUAAAAC/samurai.gif" width="400">
-</div> 
