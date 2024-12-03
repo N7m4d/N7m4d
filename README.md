@@ -7,7 +7,7 @@
 
 <!-- Welcome banner -->
 <div align="center">
-  <img src="https://media1.tenor.com/m/GyYGQcACWNQAAAAC/welcome-glitch.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
 </div>
 
 <!-- About me heading -->
@@ -57,8 +57,11 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
 </div>
 
 <p></p>
@@ -80,15 +83,34 @@
 <p></p>
 
 <p>
-  <b>IDEs and Other Tools</b>
+  <b>IDEs</b>
 </p>
 
 <div>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Rider-000?style=flat-square&logo=rider&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLion-black?style=flat-square&logo=clion&logoColor=white" />
+</div>
+
+<p></p>
+
+<p>
+  <b>Version Control Systems</b>
+</p>
+
+<div>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white" />
+</div>
+
+<p></p>
+
+<p>
+  <b>Game Engines</b>
+</p>
+
+<div>
   <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/CRYENGINE-000?style=flat-square&logo=cryengine&logoColor=white" />
 </div>
