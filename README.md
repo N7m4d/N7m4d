@@ -10,8 +10,12 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=H3xRunn3r&style=for-the-badge" />
 </h1>
 
-<p>
-  I'm a full-stack developer with a strong focus on backend development using .NET. I build robust, scalable systems and enjoy working across the stack, using frameworks like React and Angular on the front end.
+- 💻 Full-stack developer with a strong .NET backend focus
 
-  I'm also passionate about real-time rendering and graphics programming. In my free time, I'm building a rendering engine from scratch using Direct3D 12.
-</p>
+- ⚙️ Frontend experience with React & Angular
+
+- 🎮 Passionate about real-time rendering & graphics programming
+
+- 🧠 Currently building a Direct3D 12 rendering engine from scratch
+
+- 🚀 Interested in game engines, low-level systems & performance
