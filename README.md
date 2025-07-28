@@ -1,6 +1,6 @@
 <!-- Welcome banner -->
 <div align="center">
-  <img src="./image.png">
+  <img src="./welcome-banner.gif">
 </div>
 
 <!-- Main heading -->
